@@ -1,0 +1,17 @@
+.nav{
+  background-color:blueviolet;
+  color: white;
+  display: flex;
+  align-items: center;
+  height: 100px;
+}
+.nav ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  width: 100%;
+}
+.form{
+  background-color: grey;
+  width: 50%;
+}
